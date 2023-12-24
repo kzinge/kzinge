@@ -1,4 +1,4 @@
-### Hello, World 🌎
+### Hello World 🌎
 
 - 👋 I'm George
 - 🌀 I'm 17 years old
