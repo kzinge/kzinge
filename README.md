@@ -10,15 +10,15 @@ Me chamo George Kauan Medeiros, tenho 18 anos e sou um entusiasta da tecnologia,
 
 <br/> <br/>
 ### 📈 Estatísticas
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-direction: row;">
   <img 
     alt="Estatísticas do GitHub de George Kauan" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=kzinge&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
     alt="Linguagens mais usadas por George Kauan" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzinge&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </div>
