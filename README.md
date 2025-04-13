@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 George Medeiros
 Desenvolvedor em formação | Explorador de códigos
 
-Me chamo George Kauan Medeiros, tenho 18 anos e sou um entusiasta da tecnologia, apaixonado por aprender e construir. Atualmente estou me aprofundando em desenvolvimento web e sistemas, sempre buscando evoluir e compartilhar experiências. No momento, estou praticando bastante com Python, Flask, Docker e bancos de dados como PostgreSQL e MySQL.
+Me chamo George Medeiros, tenho 18 anos e sou um entusiasta da tecnologia, apaixonado por aprender e construir. Atualmente estou me aprofundando em desenvolvimento web e sistemas, sempre buscando evoluir e compartilhar experiências. No momento, estou praticando bastante com Python, Flask, Docker e bancos de dados como PostgreSQL e MySQL.
 
 📫 Você pode falar comigo pelo Instagram @kauansanttoz ou pelo e-mail georgeksmedeiros@gmail.com.
 ### 🚀 Tecnologias e Ferramentas
